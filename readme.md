@@ -4,6 +4,12 @@
 A few examples using further.js
 
 
+Index
+=======
+
+- [tasks.js](further-examples/blob/master/tasks.js) - Serial and Paraller tasks containers
+
+
 License
 =======
 
