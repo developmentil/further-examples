@@ -1,16 +1,14 @@
 {
-  "name": "further",
-  "description": "A lightweight library on Node.js",
+  "name": "further-examples",
+  "description": "further.js Examples",
   "version": "0.1.0",
   "author": {
     "name": "Moshe Simantov",
     "email": "ms@development.co.il"
   },
-  "scripts": {
-    "start": "node app"
-  },
   "dependencies": {
-	  "async": "~0.1.22"
+	  "further": "latest",
+	  "express": "~3.0.0"
   },
   "devDependencies": {
   },
@@ -20,14 +18,11 @@
     "router",
     "app",
     "library",
-    "tags"
+    "tags",
+    "examples"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/DevelopmentIL/further.git"
-  },
-  "main": "index",
-  "scripts": {
-    "prepublish": "npm prune"
+    "url": "git://github.com/DevelopmentIL/further-examples.git"
   }
 }
